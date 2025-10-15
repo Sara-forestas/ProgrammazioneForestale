@@ -1,0 +1,557 @@
+[
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC01",
+  "descrizione": "Rimboschimenti ",
+  "um": "ha",
+  "personale": 17409.6,
+  "materiali": 2527.2,
+  "noli": 1788,
+  "costoTotale": 21724.8
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC02",
+  "descrizione": "Cure colturali post-impianto",
+  "um": "ha",
+  "personale": 3767.4,
+  "materiali": 15.6,
+  "noli": 0,
+  "costoTotale": 3783
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC03",
+  "descrizione": "Interventi connessi al governo a fustaia a prevalenza di latifoglie",
+  "um": "ha",
+  "personale": 16029,
+  "materiali": 643.5,
+  "noli": 0,
+  "costoTotale": 16672.5
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC04",
+  "descrizione": "Interventi connessi al governo a fustaia di popolamenti artificiali a prevalenza di conifere",
+  "um": "ha",
+  "personale": 17972.5,
+  "materiali": 708.5,
+  "noli": 0,
+  "costoTotale": 18681
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC05",
+  "descrizione": "Interventi connessi al governo a ceduo ",
+  "um": "ha",
+  "personale": 16328,
+  "materiali": 617.5,
+  "noli": 0,
+  "costoTotale": 16945.5
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC06",
+  "descrizione": "Interventi connessi al governo misto",
+  "um": "ha",
+  "personale": 17972.5,
+  "materiali": 578.5,
+  "noli": 0,
+  "costoTotale": 18551
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC07",
+  "descrizione": "Interventi connessi alla conversione dei cedui ",
+  "um": "ha",
+  "personale": 16029,
+  "materiali": 617.5,
+  "noli": 0,
+  "costoTotale": 16646.5
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC08",
+  "descrizione": "Deconiferamento",
+  "um": "ha",
+  "personale": 13865,
+  "materiali": 617.5,
+  "noli": 0,
+  "costoTotale": 14482.5
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC09",
+  "descrizione": "Ricostituzione boschiva e interventi fitosanitari ",
+  "um": "ha",
+  "personale": 17225,
+  "materiali": 617.5,
+  "noli": 0,
+  "costoTotale": 17842.5
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC10",
+  "descrizione": "Sughericoltura  ",
+  "um": "ha",
+  "personale": 11992.5,
+  "materiali": 488.8,
+  "noli": 0,
+  "costoTotale": 12481.3
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC11",
+  "descrizione": "Manutenzione ordinaria fabbricati in economia",
+  "um": "mq",
+  "personale": 97.5,
+  "materiali": 32.5,
+  "noli": 1,
+  "costoTotale": 131
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC12",
+  "descrizione": "Manutenzione straordinaria fabbricati in economia",
+  "um": "mq",
+  "personale": 390,
+  "materiali": 240.5,
+  "noli": 5,
+  "costoTotale": 635.5
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC13",
+  "descrizione": "Manutenzione ordinaria di piste e strade in economia",
+  "um": "mq",
+  "personale": 2.7,
+  "materiali": 0.26,
+  "noli": 0.1,
+  "costoTotale": 3.16
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC14",
+  "descrizione": "Manutenzione straordinaria di piste e strade in economia",
+  "um": "mq",
+  "personale": 9.75,
+  "materiali": 3.25,
+  "noli": 1,
+  "costoTotale": 14
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC15",
+  "descrizione": "Manutenzione ordinaria di sentieri in economia",
+  "um": "km",
+  "personale": 1375,
+  "materiali": 275,
+  "noli": 0,
+  "costoTotale": 1650
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC16",
+  "descrizione": "Manutenzione straordinaria di sentieri in economia",
+  "um": "km",
+  "personale": 1925,
+  "materiali": 1375,
+  "noli": 0,
+  "costoTotale": 3300
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC17",
+  "descrizione": "Realizzazione recinzioni",
+  "um": "km",
+  "personale": 22000,
+  "materiali": 7150,
+  "noli": 500,
+  "costoTotale": 29650
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC18",
+  "descrizione": "Manutenzione recinzioni",
+  "um": "km",
+  "personale": 12650,
+  "materiali": 3900,
+  "noli": 200,
+  "costoTotale": 16750
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC19",
+  "descrizione": "Palificata viva",
+  "um": "Mc",
+  "personale": 123.69,
+  "materiali": 82,
+  "costoTotale": 205.69
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC20",
+  "descrizione": "palizzata",
+  "um": "m",
+  "personale": 47.81,
+  "materiali": 15,
+  "costoTotale": 62.81
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC21",
+  "descrizione": "Guado in materasso rete e pietrame",
+  "um": "mq",
+  "personale": 32.93,
+  "materiali": 35.5,
+  "costoTotale": 88.43
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC22",
+  "descrizione": "Gestione opifici e\/o falegnamerie",
+  "um": "A corpo",
+  "costoTotale": "Da valutare"
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC23",
+  "descrizione": "Realizzazione pascoli",
+  "um": "A corpo",
+  "costoTotale": "Da valutare"
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC24",
+  "descrizione": "Manutenzione Alvei",
+  "um": "A corpo",
+  "costoTotale": "Da valutare"
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC25",
+  "descrizione": "Interventi su fabbricati in appalto",
+  "um": "A corpo",
+  "costoTotale": "Da valutare"
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC26",
+  "descrizione": "Interventi su piste e strade in appalto",
+  "um": "A corpo",
+  "costoTotale": "Da valutare"
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC27",
+  "descrizione": "Attività selvicolturali in appalto",
+  "um": "A corpo",
+  "costoTotale": "Da valutare"
+ },
+ {
+  "codicemacroCategoria": "GFC",
+  "macroCategoria": "GFC -    Attività di Gestione Forestale dei compendi amministrati",
+  "azioneOperativa": "GFC28",
+  "descrizione": "Attività di collaborazione enti locali (Art. 37 c2 e 2bis L.R. 8\/2016)",
+  "um": "A corpo",
+  "costoTotale": "Da valutare"
+ },
+ {
+  "codicemacroCategoria": "AIB",
+  "macroCategoria": "AIB - Attività Antincendio Boschivo e di Protezione Civile",
+  "azioneOperativa": "AIB01",
+  "descrizione": "Squadra AIB h8",
+  "um": "gg",
+  "personale": 480,
+  "materiali": 100,
+  "noli": 0,
+  "costoTotale": 580
+ },
+ {
+  "codicemacroCategoria": "AIB",
+  "macroCategoria": "AIB - Attività Antincendio Boschivo e di Protezione Civile",
+  "azioneOperativa": "AIB02",
+  "descrizione": "Squadra AIB h11",
+  "um": "gg",
+  "personale": 660,
+  "materiali": 110,
+  "noli": 0,
+  "costoTotale": 770
+ },
+ {
+  "codicemacroCategoria": "AIB",
+  "macroCategoria": "AIB - Attività Antincendio Boschivo e di Protezione Civile",
+  "azioneOperativa": "AIB03",
+  "descrizione": "Squadra AIB h16",
+  "um": "gg",
+  "personale": 960,
+  "materiali": 125,
+  "noli": 0,
+  "costoTotale": 1085
+ },
+ {
+  "codicemacroCategoria": "AIB",
+  "macroCategoria": "AIB - Attività Antincendio Boschivo e di Protezione Civile",
+  "azioneOperativa": "AIB04",
+  "descrizione": "Squadra AIB h24",
+  "um": "gg",
+  "personale": 1440,
+  "materiali": 150,
+  "noli": 0,
+  "costoTotale": 1590
+ },
+ {
+  "codicemacroCategoria": "AIB",
+  "macroCategoria": "AIB - Attività Antincendio Boschivo e di Protezione Civile",
+  "azioneOperativa": "AIB05",
+  "descrizione": "Vedetta AIB h8",
+  "um": "gg",
+  "personale": 120,
+  "costoTotale": 120
+ },
+ {
+  "codicemacroCategoria": "AIB",
+  "macroCategoria": "AIB - Attività Antincendio Boschivo e di Protezione Civile",
+  "azioneOperativa": "AIB06",
+  "descrizione": "Vedetta AIB h16",
+  "um": "gg",
+  "personale": 240,
+  "costoTotale": 240
+ },
+ {
+  "codicemacroCategoria": "AIB",
+  "macroCategoria": "AIB - Attività Antincendio Boschivo e di Protezione Civile",
+  "azioneOperativa": "AIB07",
+  "descrizione": "Vedetta AIB h24",
+  "um": "gg",
+  "personale": 360,
+  "costoTotale": 360
+ },
+ {
+  "codicemacroCategoria": "AIB",
+  "macroCategoria": "AIB - Attività Antincendio Boschivo e di Protezione Civile",
+  "azioneOperativa": "AIB08",
+  "descrizione": "Giornata a pericolosità gialla (per PC)",
+  "um": "gg",
+  "personale": 200,
+  "materiali": 25,
+  "costoTotale": 225
+ },
+ {
+  "codicemacroCategoria": "AIB",
+  "macroCategoria": "AIB - Attività Antincendio Boschivo e di Protezione Civile",
+  "azioneOperativa": "AIB09",
+  "descrizione": "Giornata a pericolosità arancione (per PC)",
+  "um": "gg",
+  "personale": 650,
+  "materiali": 100,
+  "costoTotale": 750
+ },
+ {
+  "codicemacroCategoria": "AIB",
+  "macroCategoria": "AIB - Attività Antincendio Boschivo e di Protezione Civile",
+  "azioneOperativa": "AIB10",
+  "descrizione": "Giornata a pericolosità rossa (per PC)",
+  "um": "gg",
+  "personale": 1500,
+  "materiali": 250,
+  "costoTotale": 1750
+ },
+ {
+  "codicemacroCategoria": "AIB",
+  "macroCategoria": "AIB - Attività Antincendio Boschivo e di Protezione Civile",
+  "azioneOperativa": "AIB11",
+  "descrizione": "Manutenzione meccanizzata fasce in economia",
+  "um": "ha",
+  "personale": 200,
+  "materiali": 50,
+  "noli": 550,
+  "costoTotale": 800
+ },
+ {
+  "codicemacroCategoria": "AIB",
+  "macroCategoria": "AIB - Attività Antincendio Boschivo e di Protezione Civile",
+  "azioneOperativa": "AIB12",
+  "descrizione": "Manutenzione manuale fasce in economia",
+  "um": "ha",
+  "personale": 3800,
+  "materiali": 200,
+  "noli": 0,
+  "costoTotale": 4000
+ },
+ {
+  "codicemacroCategoria": "AIB",
+  "macroCategoria": "AIB - Attività Antincendio Boschivo e di Protezione Civile",
+  "azioneOperativa": "AIB13",
+  "descrizione": "Appalti per fasce",
+  "um": "A corpo",
+  "costoTotale": "Da valutare"
+ },
+ {
+  "codicemacroCategoria": "AIB",
+  "macroCategoria": "AIB - Attività Antincendio Boschivo e di Protezione Civile",
+  "azioneOperativa": "AIB14",
+  "descrizione": "Appalti per mezzi",
+  "um": "A corpo",
+  "costoTotale": "Da valutare"
+ },
+ {
+  "codicemacroCategoria": "AIB",
+  "macroCategoria": "AIB - Attività Antincendio Boschivo e di Protezione Civile",
+  "azioneOperativa": "AIB15",
+  "descrizione": "Azioni di prevenzione antincendio presso i Comuni",
+  "um": "A corpo",
+  "costoTotale": "Da valutare"
+ },
+ {
+  "codicemacroCategoria": "VIV",
+  "macroCategoria": "VIV - Attività di gestione dei Vivai produttivi e conservazionistici",
+  "azioneOperativa": "VIV01",
+  "descrizione": "Produzione in fitocella",
+  "um": "Cad\/anno",
+  "personale": 1.1,
+  "materiali": 0.3,
+  "noli": 0,
+  "costoTotale": 1.4
+ },
+ {
+  "codicemacroCategoria": "VIV",
+  "macroCategoria": "VIV - Attività di gestione dei Vivai produttivi e conservazionistici",
+  "azioneOperativa": "VIV02",
+  "descrizione": "Allevamento in vaso (18-24-30)",
+  "um": "Cad\/anno",
+  "personale": 3.5,
+  "materiali": 4,
+  "noli": 0,
+  "costoTotale": 7.5
+ },
+ {
+  "codicemacroCategoria": "VIV",
+  "macroCategoria": "VIV - Attività di gestione dei Vivai produttivi e conservazionistici",
+  "azioneOperativa": "VIV03",
+  "descrizione": "Allevamento in mastello (35-50)",
+  "um": "Cad\/anno",
+  "personale": 7.5,
+  "materiali": 12,
+  "noli": 0,
+  "costoTotale": 19.5
+ },
+ {
+  "codicemacroCategoria": "VIV",
+  "macroCategoria": "VIV - Attività di gestione dei Vivai produttivi e conservazionistici",
+  "azioneOperativa": "VIV04",
+  "descrizione": "Allevamento in piantonaio",
+  "um": "Cad\/anno",
+  "personale": 15,
+  "materiali": 20,
+  "noli": 0,
+  "costoTotale": 35
+ },
+ {
+  "codicemacroCategoria": "VIV",
+  "macroCategoria": "VIV - Attività di gestione dei Vivai produttivi e conservazionistici",
+  "azioneOperativa": "VIV05",
+  "descrizione": "Attività di conservazione specie ",
+  "um": "gg",
+  "personale": 120,
+  "materiali": 5,
+  "costoTotale": 125
+ },
+ {
+  "codicemacroCategoria": "FAU",
+  "macroCategoria": "FAU - Attività legate alla Gestione, al Soccorso ed al Ripopolamento della Fauna Selvatica ed alla produzione del Miele",
+  "azioneOperativa": "FAU01",
+  "descrizione": "Produzione miele",
+  "um": "kg",
+  "personale": 2.5,
+  "materiali": 3,
+  "noli": 0,
+  "costoTotale": 5.5
+ },
+ {
+  "codicemacroCategoria": "FAU",
+  "macroCategoria": "FAU - Attività legate alla Gestione, al Soccorso ed al Ripopolamento della Fauna Selvatica ed alla produzione del Miele",
+  "azioneOperativa": "FAU02",
+  "descrizione": "Attività di soccorso in clinica veterinaria",
+  "um": "gg",
+  "personale": 1500,
+  "materiali": 300,
+  "costoTotale": 1800
+ },
+ {
+  "codicemacroCategoria": "FAU",
+  "macroCategoria": "FAU - Attività legate alla Gestione, al Soccorso ed al Ripopolamento della Fauna Selvatica ed alla produzione del Miele",
+  "azioneOperativa": "FAU03",
+  "descrizione": "Attività di monitoraggio fauna",
+  "um": "gg",
+  "personale": 1850,
+  "materiali": 250,
+  "costoTotale": 2100
+ },
+ {
+  "codicemacroCategoria": "EAR",
+  "macroCategoria": "EAR - Ettività di Educazione Ambientale, didattiche e di Ricerca",
+  "azioneOperativa": "EAR01",
+  "descrizione": "Attività di educazione ambientale\/didattiche \/ dimostrative",
+  "um": "gg",
+  "personale": 450,
+  "materiali": 150,
+  "noli": 0,
+  "costoTotale": 600
+ },
+ {
+  "codicemacroCategoria": "EAR",
+  "macroCategoria": "EAR - Ettività di Educazione Ambientale, didattiche e di Ricerca",
+  "azioneOperativa": "EAR02",
+  "descrizione": "Attività della mostra itinerante",
+  "um": "gg",
+  "personale": 1250,
+  "materiali": 250,
+  "costoTotale": 1500
+ },
+ {
+  "codicemacroCategoria": "EAR",
+  "macroCategoria": "EAR - Ettività di Educazione Ambientale, didattiche e di Ricerca",
+  "azioneOperativa": "EAR03",
+  "descrizione": "Attività di studio o ricerca",
+  "um": "gg-uomo",
+  "personale": 150,
+  "materiali": 5,
+  "costoTotale": 155
+ },
+ {
+  "codicemacroCategoria": "EAR",
+  "macroCategoria": "EAR - Ettività di Educazione Ambientale, didattiche e di Ricerca",
+  "azioneOperativa": "EAR04",
+  "descrizione": "Servizi specifici di studio\/ricerca\/ed amb",
+  "um": "A corpo",
+  "costoTotale": "Da valutare"
+ }
+]

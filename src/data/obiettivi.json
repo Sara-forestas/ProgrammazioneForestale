@@ -1,0 +1,92 @@
+{
+  "Missioni": [
+    {
+      "Codice": "01",
+      "Descrizione": "Servizi istituzionali e generali, di gestione e di controllo",
+      "Programmi": [
+        {
+          "Codice": "01.1",
+          "Descrizione": "Altri servizi generali"
+        },
+        {
+          "Codice": "01.2",
+          "Descrizione": "Gestione amministrativa"
+        }
+      ]
+    },
+    {
+      "Codice": "02",
+      "Descrizione": "Tutela e valorizzazione dell'ambiente",
+      "Programmi": [
+        {
+          "Codice": "02.1",
+          "Descrizione": "Conservazione della biodiversità"
+        }
+      ]
+    }
+  ],
+  "ObiettiviStrategici": [
+    {
+      "Codice": "OS1",
+      "Descrizione": "Cura, tutela e conservazione del patrimonio forestale",
+      "ObiettiviDirezionali": [
+        {
+          "Codice": "OD1",
+          "Descrizione": "Monitoraggi e inventari",
+          "ObiettiviGestionali": [
+            {
+              "Codice": "OG1",
+              "Descrizione": "Inventari aggiornati"
+            },
+            {
+              "Codice": "OG2",
+              "Descrizione": "Rilievi geospaziali"
+            }
+          ]
+        },
+        {
+          "Codice": "OD2",
+          "Descrizione": "Sorveglianza forestale",
+          "ObiettiviGestionali": [
+            {
+              "Codice": "OG3",
+              "Descrizione": "Controllo incendi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Codice": "OS2",
+      "Descrizione": "Gestione sostenibile delle risorse naturali",
+      "ObiettiviDirezionali": [
+        {
+          "Codice": "OD3",
+          "Descrizione": "Gestione vivaistica",
+          "ObiettiviGestionali": [
+            {
+              "Codice": "OG4",
+              "Descrizione": "Piani di coltivazione"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Documenti": [
+    {
+      "Tipo": "Piano triennale",
+      "Data": "2024-01-15",
+      "Descrizione": "Programmazione attività forestali"
+    },
+    {
+      "Tipo": "Relazione annuale",
+      "Data": "2023-12-31",
+      "Descrizione": "Stato avanzamento attività"
+    }
+  ],
+  "CdR": [
+    { "Codice": "CDR01", "Descrizione": "Servizio Monitoraggio" },
+    { "Codice": "CDR02", "Descrizione": "Ufficio Pianificazione" }
+  ]
+}

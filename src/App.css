@@ -1,0 +1,28 @@
+/* App.css */
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #f6f9f6;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+}
+
+section {
+  width: 100%;
+  max-width: 1400px;
+  margin: 2rem auto;
+}
+
+select, input {
+  font-size: 1rem;
+  min-height: 45px;
+  border-radius: 8px;
+}
